@@ -1,0 +1,2 @@
+# lsq.
+kali linux
